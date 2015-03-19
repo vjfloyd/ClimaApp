@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Senami</string>
+    <string name="hello_world">Hello bitch!</string>
+    <string name="action_settings">Configuracion</string>
+</resources>
